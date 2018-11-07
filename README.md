@@ -1,5 +1,6 @@
 # hello-world
 
-My name is Alex Ortega, I am 17 years old and I am from Paraguay.
+Hello Sugar Labs. 
+This is a GCI task done by Alex Ortega with a branch called sugarlabs
 
-Repositorio de aprendizaje de github, para GCI
+
